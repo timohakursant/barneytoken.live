@@ -18,6 +18,7 @@
             background-size: cover;
             background-attachment: fixed;
         }
+![Uploading Бари с пакетом.jpeg…]()
 
         h1 {
             font-size: 3em;
