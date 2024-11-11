@@ -13,7 +13,8 @@
             background-color: #001333;
             color: #ffffff;
             text-align: center;
-            background-image: url('https://www.example.com/path-to-your-space-background.jpg'); /* Замените на URL вашего изображения */
+            background-image: url![лазеры Барсука](https://github.com/user-attachments/assets/25027ee3-b89b-4948-bc95-a4111b5bffbf)
+/
             background-size: cover;
             background-attachment: fixed;
         }
@@ -73,7 +74,8 @@
     <h2>История Барни</h2>
     <p>Барни — это шотландский вислоухий кот, который стал настоящей поддержкой для своего хозяина в сложные времена. Барни сопровождал его в зоне боевых действий на востоке Украины, помогая своим милым видом не унывать, несмотря на обстрелы и тревожные ситуации. Однако из-за стресса, Барни начал болеть, и теперь в его честь создан токен, который станет символом стойкости и преданности.</p>
 
-    <img src="https://www.example.com/path-to-barney-photo.jpg" alt="Фото Барни" class="barney-photo"> <!-- Замените на URL фото Барни -->
+   ![Барни-лого](https://github.com/user-attachments/assets/22f73964-943e-4aca-baff-d41c078cf8d2)
+
 
     <a href="https://solscan.io/token/YOUR_CONTRACT_ADDRESS" class="contract-link" target="_blank">Посмотреть смарт-контракт</a> <!-- Замените YOUR_CONTRACT_ADDRESS на адрес контракта -->
 
