@@ -1,74 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Barney Token - Home</title>
-    <style>
-        /* Основной стиль */
-        body, html {
-            margin: 0;
-            padding: 0;
-            font-family: Arial, sans-serif;
-            background-color: #001333;
-            color: #ffffff;
-            text-align: center;
-            background-image: url![лазеры Барсука](https://github.com/user-attachments/assets/25027ee3-b89b-4948-bc95-a4111b5bffbf)
-/
-            background-size: cover;
-            background-attachment: fixed;
-        }
-![Uploading Бари с пакетом.jpeg…]()
-
-        h1 {
-            font-size: 3em;
-            margin-top: 20px;
-            color: #FFD700;
-        }
-
-        h2 {
-            font-size: 2em;
-            margin: 10px 0;
-            color: #FFD700;
-        }
-
-        p {
-            font-size: 1.2em;
-            max-width: 600px;
-            margin: 20px auto;
-            line-height: 1.5;
-        }
-
-        .barney-photo {
-            border-radius: 10px;
-            margin: 20px 0;
-            max-width: 80%;
-            height: auto;
-        }
-
-        .contract-link {
-            display: inline-block;
-            margin-top: 20px;
-            padding: 15px 30px;
-            background-color: #FFD700;
-            color: #001333;
-            font-weight: bold;
-            text-decoration: none;
-            border-radius: 8px;
-            transition: 0.3s;
-        }
-
-        .contract-link:hover {
-            background-color: #FFA500;
-            color: #001333;
-        }
-
-        .footer {
-            margin-top: 40px;
-            font-size: 0.8em;
-            color: #cccccc;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Barney Token - Meme Token</title>
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; text-align: center; }
+    header { padding: 50px; }
+    img { max-width: 100%; height: auto; }
+    .content { max-width: 800px; margin: auto; padding: 20px; }
+    .button { padding: 10px 20px; color: white; background-color: #333; text-decoration: none; border-radius: 5px; }
+  </style>
 </head>
 <body>
     <h1>Barney Token</h1>
